@@ -1,0 +1,61 @@
+# doc file
+.a.updateBefore.md
+
+/feepackage
+/feepackage_test
+
+recp.sh
+
+#uni_app
+unpackage/
+.hbuilderx/
+
+# phpstorm project files
+.idea
+
+# vscode project files
+.vscode
+
+.cursor
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+/packages
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+
+# vagrant runtime
+/.vagrant
+
+/backend
+/doc
+/frontend
+doc.sh
+cp.sh
+myreadme.txt
+
+composer.lock
+
+runEvery3s.bat
+
+.phpunit.result.cache
+.env
+.history
+/didc_*.sh
