@@ -1,4 +1,4 @@
-# AI驱动的PHP代码异味检测方案
+#                       
 
 基于php-parser + scikit-learn实现的智能代码异味检测系统
 
